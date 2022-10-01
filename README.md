@@ -1,6 +1,8 @@
-# GifExpertApp
+# HeroPage
 
-Este es mi repositorio del proyecto de GifExpertAPp de React utilizando: 
+This is my repo of the proyect named "Hero-SPA" with React working with: 
 
 - React 18
 - Vite
+- React Router 6 
+

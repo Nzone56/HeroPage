@@ -1,6 +1,6 @@
 # HeroPage
 
-This is my repo of the proyect named "Hero-SPA" with React working with: 
+This is my repo of the project named "Hero-SPA" with React working with: 
 
 - React 18
 - Vite
